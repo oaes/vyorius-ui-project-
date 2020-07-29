@@ -1,0 +1,21 @@
+.logo{
+background-image: url('../../images/logo.PNG');
+background-size: cover;
+background-repeat: no-repeat;
+min-height: fit-content;
+color: transparent;
+width: 150px;
+height:50px;
+display: inline-block;
+ align-items: top;      
+}
+.menu{
+    margin-left: 5%;
+}
+.colorBtn{
+    background: #ed7240 !important ;
+    margin-left: 5% !important;
+    color: white !important;
+    font-weight: bold !important;
+    border: 1px solid #ed7240 !important;
+}
